@@ -1,4 +1,4 @@
-# NaN-None
+# NAN | NONE | NULL
 NaN and None in NumPy and Pandas
 
 <img src = "NAN.png">
